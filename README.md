@@ -4,7 +4,7 @@
  :iphone:	 Interessada em Mobile
 
 ## *Encontre-me por aqui*  :earth_americas:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/AlaneCostaC/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/alane_costa/) ![Discord](https://img.shields.io/badge/alanecosta@gmail.com-000?style=for-the-badge&logo=Gmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/AlaneCostaC/) 
 
 ## *Aprendendo*  🧠
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
