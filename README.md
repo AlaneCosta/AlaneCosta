@@ -7,10 +7,10 @@
 
 ## *Encontre-me por aqui*  :earth_americas:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/AlaneCostaC/) 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)]([https://www.linkedin.com/in/AlaneCostaC/](https://www.instagram.com/alanecostac/)) 
+
 
 ## *Aprendendo*  🧠
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 
 ## *Soft Skills* 💡
 ✔️Criatividade   ✔️Atitude Positiva   
