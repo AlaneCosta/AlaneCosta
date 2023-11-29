@@ -17,7 +17,7 @@
 ✔️Liderança   ✔️Proatividade   
 ✔️Trabalho em equipe  ✔️Comunicação
 
-## *Movimentação no perfil*
+## *Movimentação no perfil* 🥇
 
 <a href="https://github.com/vinnyfs89">
     <img width="50%" align="left" width="50%" alt="Alane Costa github stats" src="https://github-readme-stats.vercel.app/api?username=AlaneCosta&show_icons=true&hide_border=true" />
