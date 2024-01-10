@@ -10,7 +10,7 @@
 
 
 ## *Aprendendo*  🧠
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin) ![java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin) ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
 
 
 ## *Soft Skills* 💡
